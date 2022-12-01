@@ -53,7 +53,7 @@ func code2() {
 	if err != nil {
 		log.Fatalf("readLines: %s", err)
 	}
-	fmt.Println("Starting script")
+	fmt.Println("drop into a shell and add 'em up!")
 	fmt.Println("finished script")
 
 }
